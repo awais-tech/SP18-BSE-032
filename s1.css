@@ -1,0 +1,30 @@
+h6 {
+  color: #9b1518;
+  font-size: 1.1em;
+  line-height: 0.5px;
+}
+.a {
+  font-size: 0.9em;
+  color: black;
+}
+.b {
+  color: #9b1518;
+}
+
+i {
+  background-color: blue;
+  padding: 4%;
+  margin: 2%;
+  border-radius: 50%;
+  padding-top: 20px;
+}
+.c {
+  color: skyblue;
+  cursor: pointer;
+}
+li {
+  font-size: 0.8em;
+  line-height: 20px;
+  font-weight: bold;
+  padding-top: 5px;
+}
